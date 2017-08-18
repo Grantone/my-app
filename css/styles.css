@@ -1,0 +1,19 @@
+.sidebar {
+  float :left;
+  background-color:#808000;
+}
+h1 {
+  text-align: center;
+  padding: 80px;
+  background-image: url(../img/image4.jpg);
+  color: yellow;
+}
+.created {
+  margin: 20px;
+  padding: 100px;
+  background-color: brown;
+float: left;
+}
+.back {
+  background-color: skyblue;
+}
