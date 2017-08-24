@@ -17,3 +17,6 @@ float: left;
 .back {
   background-color: skyblue;
 }
+.col{
+  display: inline-flex;
+}
