@@ -11,7 +11,7 @@ var countr = function(numb) {
   for (var i = 1; i <= numb; i++) {
   if ((i % 3 === 0) && (i % 5 === 0)) {
 
-  $("outputlist").append("<li>ping pong<li>");
+  $("outp").append("<li>ping pong<li>");
 
 }
 else if (i % 5 === 0) {
